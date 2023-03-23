@@ -1,8 +1,8 @@
 algoritmo "retangulo"
-// Função : calcular a area e perimetro do retangulo
+// FunÃ§Ã£o : calcular a area e perimetro do retangulo
 // Autor : Aline
 // Data : 09/03/2023
-// Seção de Declarações 
+// SeÃ§Ã£o de DeclaraÃ§Ãµes 
 var
 larg,altu,resulA,resulP:real
 nome:caractere
@@ -23,6 +23,6 @@ resulp <- (altu*2)+(larg*2)
 //saida
 escreval("--------------RESULTADO---------------")
 ESCREVAL(nome,"bem vindo(a) ao programa!!")
-escreval("A area do retangulo é: ",resulA)
-escreval("O perimetro do retangulo é: ",resulP)
+escreval("A area do retangulo Ã©: ",resulA)
+escreval("O perimetro do retangulo Ã©: ",resulP)
 fimalgoritmo
