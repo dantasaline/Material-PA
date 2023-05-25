@@ -1,20 +1,20 @@
 algoritmo "maior que 10"
-// Função : informar se o número é maior que 10 ou não
+// FunÃ§Ã£o : informar se o nÃºmero Ã© maior que 10 ou nÃ£o
 // Autor : Aline Dantas
 // Data : 18/05/2023
-// Seção de Declarações 
+// SeÃ§Ã£o de DeclaraÃ§Ãµes 
 var
 num :real
 inicio
 //entrada
-escreval("Digite o número: ")
+escreval("Digite o nÃºmero: ")
 leia(num)
 
 //processamento
 
 se(num>10) entao
-escreval("Sim, é maior")
+  escreval("Sim, Ã© maior")
 senao
-escreval("Não, é menor")
+  escreval("NÃ£o, Ã© menor")
 fimse
 fimalgoritmo
