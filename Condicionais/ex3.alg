@@ -13,8 +13,8 @@ escreval("Qual a sua idade?")
 leia(idade)
 
 se(idade<18)entao
- escreval(nome," você é de menor")
+  escreval(nome," você é de menor")
 senao
- escreval(nome," você é de maior")
+  escreval(nome," você é de maior")
 fimse
 fimalgoritmo
