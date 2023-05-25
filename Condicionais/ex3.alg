@@ -1,8 +1,8 @@
 algoritmo "maior de idade"
-// Função : Indicar se o usuario e maior ou menor de idade
+// FunÃ§Ã£o : Indicar se o usuario e maior ou menor de idade
 // Autor : Aline Dantas
 // Data : 18/05/2023
-// Seção de Declarações 
+// SeÃ§Ã£o de DeclaraÃ§Ãµes 
 var
 idade:real
 nome:caractere
@@ -13,8 +13,8 @@ escreval("Qual a sua idade?")
 leia(idade)
 
 se(idade<18)entao
- escreval(nome," você é de menor")
- senao
- escreval(nome," você é de maior")
+ escreval(nome," vocÃª Ã© de menor")
+senao
+ escreval(nome," vocÃª Ã© de maior")
 fimse
 fimalgoritmo
