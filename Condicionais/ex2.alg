@@ -1,8 +1,8 @@
 algoritmo "salario"
-// Função : Medir o gasto mensal
+// FunÃ§Ã£o : Medir o gasto mensal
 // Autor : Aline Dantas
 // Data : 18/05/2023
-// Seção de Declarações 
+// SeÃ§Ã£o de DeclaraÃ§Ãµes 
 var
 salario, gasto :real
 inicio
@@ -12,8 +12,8 @@ escreval("Digite seus gastos mensais: ")
 leia(gasto)
 
 se(salario<=gasto)entao
-escreval("Saldo negativo, kkpobre")
+  escreval("Saldo negativo, kkpobre")
 senao
-escreval("Saldo positivo")
+  escreval("Saldo positivo")
 fimse
 fimalgoritmo
